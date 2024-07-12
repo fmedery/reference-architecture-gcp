@@ -95,7 +95,7 @@ This reference architecture implementation uses Terraform. You will need to do t
 
    You will need to ensure your Google Cloud account has appropriate permissions on the project you wish to provision in.
 
-4. [Create an appropriate Humanitec API](https://developer.humanitec.com/platform-orchestrator/reference/api-references/#generate-an-api-token) with the `Administrator` role on the Humanitec Organization and set the `HUMANITEC_TOKEN` environment variable.
+4. [Create an appropriate Humanitec API Token](https://developer.humanitec.com/platform-orchestrator/reference/api-references/#generate-an-api-token) with the `Administrator` role on the Humanitec Organization and set the `HUMANITEC_TOKEN` environment variable.
 
    For example:
 
